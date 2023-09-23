@@ -1,0 +1,41 @@
+body {
+    background-color: #FFF5E0;
+}
+.intro {
+    text-align: center;
+    background-color: #ffe0f6;
+    border-width: 10px solid black;
+
+}
+.contactme {
+    text-align: center;
+    background-color: #aefdec;
+    border: 20px solid #aefdec ;
+    border-width: 20px 10px;
+    margin-top:-16px;
+}
+.notes {
+    text-align: center;
+    background-color: #bbdeff;
+    border: 20px solid #bbdeff;
+    margin-top: -16px;
+}
+.contact {
+    background-color: rgb(204, 204, 204);
+    text-align: left;
+    border: 5px dotted rgb(116, 116, 116);
+}
+.meme {
+    background-color: #fdff73;
+    text-align: center;
+    border: 20px solid #fdff73;
+}
+.hello {
+    text-align: center;
+    font-weight: 900
+    ;
+    width: 50%;
+    margin: 25%;
+    margin-top: 20px;
+}
+
